@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saikat912" alt="saikat912" /></a> </p>
 
-- 🔭 I’m currently working on **Data Warehouse**
+- 🔭 I’m currently working on **Healthcare Domain Related Project**
 
-- 🌱 I’m currently learning **CyberSecurity**
+- 🌱 I’m currently learning **TinyML**
 
 - 👯 I’m looking to collaborate on **machine learning Projects**
 
